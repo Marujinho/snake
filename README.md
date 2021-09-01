@@ -10,7 +10,3 @@ pygame library
 # Installation
 pip install pygame
 
-# Authors
-**Rajat Dipta Biswas** - Initial work
-
-
